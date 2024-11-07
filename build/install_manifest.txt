@@ -1,0 +1,15 @@
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/config.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/block.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/fcgistreambuf.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/http.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/log.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/manager.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/message.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/protocol.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/request.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/sockets.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/transceiver.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/include/fastcgi++/webstreambuf.hpp
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/lib/libfastcgipp.so.3.0
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/lib/libfastcgipp.so.3
+/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/install/lib/libfastcgipp.so

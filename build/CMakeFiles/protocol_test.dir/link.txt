@@ -1,0 +1,1 @@
+/opt/rv1126_sdk/host/bin/arm-linux-gnueabihf-g++   -std=c++14 -Wall -Werror -Wold-style-cast -pthread -rdynamic CMakeFiles/protocol_test.dir/tests/protocol.cpp.o -o protocol_test  -Wl,-rpath,/home/liubb/workspaces/1_Libsrc_code/fastcgipp-3.0/build libfastcgipp.so.3.0 
